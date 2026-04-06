@@ -1,0 +1,17 @@
+<section id="projects">
+  <h2>Projects</h2>
+
+  <article class="project-card">
+    <h3>Driver Drowsiness Tracking System</h3>
+    <img src="assets/projects/drowsiness-tracking.png" alt="Driver Drowsiness Tracking System Screenshot" />
+    <p>Developed a system to monitor and alert drivers when drowsiness is detected using computer vision.</p>
+    <a href="https://github.com/mohitjagtap/driver-drowsiness-tracking" target="_blank" rel="noopener noreferrer">View on GitHub</a>
+  </article>
+
+  <article class="project-card">
+    <h3>Waste Water Treatment Using Green Chemistry</h3>
+    <img src="assets/projects/wastewater-treatment.png" alt="Waste Water Treatment Project Screenshot" />
+    <p>Implemented environmentally friendly methods for wastewater treatment using green chemistry principles.</p>
+    <a href="https://github.com/mohitjagtap/wastewater-treatment" target="_blank" rel="noopener noreferrer">View on GitHub</a>
+  </article>
+</section>
